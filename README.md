@@ -2,11 +2,11 @@
 GAIP 2022 4TH JUNE
 
 
-##Requirement
+## Requirement
 - Streamlit
 - Internet
 
-##Contributors
+## Contributors
 - Vijay 
 - Dhaarini
 - Prachet

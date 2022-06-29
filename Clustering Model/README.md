@@ -12,3 +12,11 @@
 - Switch to the virtual enviroment
 - Run "pip install -r requirements.txt" to download the dependencies
 - Run "streamlit run main.py" to run the streamlit app
+
+
+## Contributors
+- Vijay 
+- Dhaarini
+- Prachet
+- Pushkar
+- Abrar

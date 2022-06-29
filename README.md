@@ -1,4 +1,4 @@
-# Customer-Segmentation-and-Stock-market-prediction-for-portfolio-generation-
+# Stock Market Portfolio Advisor
 GAIP 2022 4TH JUNE
 
 ![WhatsApp Image 2022-06-29 at 9 58 29 AM](https://user-images.githubusercontent.com/64845003/176334838-2462cad5-5196-420f-b55e-1622cedafb1f.jpeg)

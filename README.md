@@ -1,13 +1,13 @@
 # Customer-Segmentation-and-Stock-market-prediction-for-portfolio-generation-
 GAIP 2022 4TH JUNE
 
-##Problem Statement
+## Problem Statement
 Financial Freedom in today's world seems  impossible if you don't have capital. However it can be achieved by investing mindfully in equity markets.  
 However, people don't do stock investments because  of
 High brokerage of Brokers/Investment banks 
 Lack of awareness around market risks  
 
-##Solution
+## Solution
 To ease the process of stock investment and make it possible for anyone to perform stock investment without the help of the middle man - 
 Customer Segmentation using their personal data (Age, Income, Job, Education, Marital Status,  Housing and Loan)
 Stock Prediction using index created of 5 stocks (from different industries) 

@@ -3,8 +3,8 @@ GAIP 2022 4TH JUNE
 
 
 ## Requirement
-- Streamlit
-- Internet
+- Docker
+- ContainDS
 
 ## Contributors
 - Vijay 

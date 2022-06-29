@@ -1,1 +1,2 @@
-Kmeans_file is the clustering model and rest of the files are various transformer's used
+Kmeans is the clustering model pickle file
+Rest of the pickle files are the various transformer's used for preprocessing the data
